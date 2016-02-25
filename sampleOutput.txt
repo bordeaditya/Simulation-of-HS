@@ -1,0 +1,22 @@
+Master: number of processes = 10
+Thread for 10 is created.
+Thread for 4 is created.
+Thread for 5 is created.
+Thread for 7 is created.
+Thread for 2 is created.
+Thread for 6 is created.
+Thread for 8 is created.
+Thread for 9 is created.
+Thread for 1 is created.
+Thread for 11 is created.
+11 says: 11 is the leader. Completed at phase 4
+10 says: 11 is the leader.
+1 says: 11 is the leader.
+4 says: 11 is the leader.
+5 says: 11 is the leader.
+9 says: 11 is the leader.
+7 says: 11 is the leader.
+2 says: 11 is the leader.
+8 says: 11 is the leader.
+6 says: 11 is the leader.
+All threads completed. Shutting down.
